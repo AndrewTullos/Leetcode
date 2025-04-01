@@ -2,10 +2,8 @@ import java.util.HashMap;
 
 class Solution {
     public int romanToInt(String s) {
-        // Creating a HashMap with Roman numeral values
         HashMap<Character, Integer> roman = new HashMap<>();
 
-        // Adding key-value pairs
         roman.put('I', 1);
         roman.put('V', 5);
         roman.put('X', 10);
