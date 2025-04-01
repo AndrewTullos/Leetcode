@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AndrewTullos/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/AndrewTullos/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AndrewTullos/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AndrewTullos/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AndrewTullos/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AndrewTullos/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
