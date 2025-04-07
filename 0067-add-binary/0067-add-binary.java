@@ -1,9 +1,7 @@
 import java.math.BigInteger;
 
 class Solution {
-    public String addBinary(String a, String b) {
-        // int intA = binaryToInt(a);
-        // int intB = binaryToInt(b);
+    public String addBinary(String a, String b) {;
 
         BigInteger bigA = new BigInteger(a, 2);
         BigInteger bigB = new BigInteger(b, 2);
@@ -11,6 +9,13 @@ class Solution {
         BigInteger sum = bigA.add(bigB);
 
         return sum.toString(2);
+
+        // int intA = binaryToInt(a);
+        // int intB = binaryToInt(b);
+
+        // int both = intA + intB;
+
+        // return intToBinary(both);
         
     }
 
