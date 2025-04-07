@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AndrewTullos/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AndrewTullos/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AndrewTullos/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/AndrewTullos/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AndrewTullos/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AndrewTullos/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AndrewTullos/Leetcode/tree/master/0189-rotate-array) |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AndrewTullos/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AndrewTullos/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AndrewTullos/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AndrewTullos/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AndrewTullos/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AndrewTullos/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AndrewTullos/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AndrewTullos/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AndrewTullos/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
