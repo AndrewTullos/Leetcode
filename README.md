@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AndrewTullos/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/AndrewTullos/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/AndrewTullos/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/AndrewTullos/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AndrewTullos/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AndrewTullos/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AndrewTullos/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AndrewTullos/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AndrewTullos/Leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AndrewTullos/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AndrewTullos/Leetcode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
