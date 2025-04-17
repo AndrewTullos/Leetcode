@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AndrewTullos/Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/AndrewTullos/Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
