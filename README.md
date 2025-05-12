@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AndrewTullos/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/AndrewTullos/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AndrewTullos/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AndrewTullos/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AndrewTullos/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AndrewTullos/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AndrewTullos/Leetcode/tree/master/0383-ransom-note) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AndrewTullos/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AndrewTullos/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AndrewTullos/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AndrewTullos/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AndrewTullos/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
