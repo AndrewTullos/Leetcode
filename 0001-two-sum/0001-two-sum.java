@@ -3,17 +3,18 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
+            System.out.println(nums[i]);
+
             int current = nums[i];
-            int remainder = target - current;
+            int complement = target - current;
 
-            if (map.containsKey(remainder)) {
-                return new int[] { map.get(remainder), i };
-            } 
+            if (map.containsKey(complement)) {
+                return new int[] { map.get(complement), i };
+            }
 
-            map.put(nums[i], i);
-        
+            map.put(current, i);
         }
 
         return null;
     }
-}
+}   
