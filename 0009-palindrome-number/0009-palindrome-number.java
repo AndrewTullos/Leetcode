@@ -1,22 +1,26 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
-        // Turn int to str
-        String str = Integer.toString(x);
-
-        // Reverse str
-        StringBuilder reversedString = new StringBuilder(str);
-        reversedString.reverse();
-
-        // Iterate through each string to compare indicies
-        for (int i = 0; i < str.length(); i++) {
-            System.out.println(i);
-
-             if (str.charAt(i) != reversedString.charAt(i)) {
+        // Negative numbers are not palindromes
+        if (x < 0) {
+            return false;
+        }
+        
+        // Store the original number
+        int original = x;
+        int reversedNum = 0;
+        
+        // Reverse the number
+        while (x > 0) {
+            int digit = x % 10;
+            // Check for integer overflow
+            if (reversedNum > Integer.MAX_VALUE / 10) {
                 return false;
             }
-
+            reversedNum = reversedNum * 10 + digit;
+            x /= 10;
         }
-        return true;
+        
+        // Compare original with reversed
+        return original == reversedNum;
     }
 }
