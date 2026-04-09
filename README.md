@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AndrewTullos/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/AndrewTullos/Leetcode/tree/master/1827-invalid-tweets) |
 ## Trie
 |  |
